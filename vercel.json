@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/book-a-call", "destination": "/index.html" }]
+}
